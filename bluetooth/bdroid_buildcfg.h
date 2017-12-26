@@ -19,7 +19,7 @@
 
 #define BLUETOOTH_QTI_SW TRUE
 
-#define BTM_DEF_LOCAL_NAME   "Fairphone FP2"
+#define BTM_DEF_LOCAL_NAME   "Grand S II"
 
 // Disables read remote device feature
 #define BTA_SKIP_BLE_READ_REMOTE_FEAT FALSE
