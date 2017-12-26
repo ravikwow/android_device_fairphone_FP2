@@ -1,5 +1,5 @@
 #
-# system.prop for FP2
+# system.prop for msm8974
 #
 
 # Audio
@@ -33,7 +33,7 @@ ro.qc.sdk.gestures.camera=false
 ro.qc.sdk.sensors.gestures=true
 
 # Display
-ro.sf.lcd_density=440
+ro.sf.lcd_density=400
 
 # GPS
 persist.gps.qc_nlp_in_use=0

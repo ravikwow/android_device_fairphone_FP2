@@ -17,8 +17,8 @@
 
 set -e
 
-DEVICE=FP2
-VENDOR=fairphone
+DEVICE=msm8974
+VENDOR=zte
 
 # Load extractutils and do some sanity checks
 MY_DIR="${BASH_SOURCE%/*}"
